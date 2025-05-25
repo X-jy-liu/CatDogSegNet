@@ -5,7 +5,7 @@ Height <= 512px: 3648/3680 (99.13%) -->
 
 # Oxford Pet-III Segmentation
 
-This repository contains training and inference pipelines for segmentation tasks on the Oxford Pet-III dataset (limited to cats and dogs only). Supported models include U-Net, Autoencoder, CLIP, and Prompt-based segmentation.
+This repository contains training and inference pipelines for segmentation tasks on the Oxford Pet-III dataset. Supported models include U-Net, Autoencoder, CLIP, and Prompt-based segmentation at training-ready states.
 
 ---
 
