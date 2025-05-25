@@ -1,0 +1,13 @@
+ace-tools-open
+opencv-python
+pandas
+numpy
+matplotlib
+torch
+torchvision
+Pillow
+tqdm
+albumentations
+scikit-learn
+wandb
+git+https://github.com/openai/CLIP.git
