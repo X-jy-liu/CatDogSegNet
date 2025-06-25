@@ -7,7 +7,10 @@ Height <= 512px: 3648/3680 (99.13%) -->
 
 This repository contains training and inference pipelines for segmentation tasks on the Oxford Pet-III dataset. Supported models include U-Net, Autoencoder, CLIP, and Prompt-based segmentation at training-ready states.
 
----
+## 📄 Report  
+
+If you're interested in the **project highlights**, **training results**, and some **visualisations**, feel free to check out the full report:  
+👉 [Image Segmentation Report (PDF)](https://github.com/X-jy-liu/CatDogSegNet/blob/main/Image%20Segmentation%20Report.pdf)
 
 ## 📦 Setup
 
